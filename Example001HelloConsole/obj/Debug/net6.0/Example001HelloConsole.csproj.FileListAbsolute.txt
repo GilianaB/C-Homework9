@@ -1,0 +1,15 @@
+D:\обучение\geekbrain\c#\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.exe
+D:\обучение\geekbrain\c#\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.deps.json
+D:\обучение\geekbrain\c#\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.runtimeconfig.json
+D:\обучение\geekbrain\c#\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.dll
+D:\обучение\geekbrain\c#\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.pdb
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.AssemblyReference.cache
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfoInputs.cache
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfo.cs
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.CoreCompileInputs.cache
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.dll
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\refint\Example001HelloConsole.dll
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.pdb
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.genruntimeconfig.cache
+D:\обучение\geekbrain\c#\Example001HelloConsole\obj\Debug\net6.0\ref\Example001HelloConsole.dll
